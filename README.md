@@ -5,7 +5,7 @@
 [![NLP](https://img.shields.io/badge/NLP-TF--IDF-green)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**🔗 Live Demo:** [Insert your deployed Streamlit Cloud link here]
+**🔗 Live Demo:** https://skillmatch-ai-a9sj2vo7844p4sxpawzp83.streamlit.app/
 
 ## 📌 Overview
 **SkillMatch AI** is an intelligent, locally-processed Natural Language Processing (NLP) tool designed to help students, graduates, and job seekers align their resumes with specific job descriptions. It identifies exact skill gaps, calculates a contextual match score, and provides actionable recommendations.
